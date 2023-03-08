@@ -1,4 +1,4 @@
-## 0x00. Shell, basics Day 1 at Holberton school
+## 0x00. Shell, basics Day 1 at ALX school
 
 0 - Write a script that prints the absolute path name of the current working directory.
 
